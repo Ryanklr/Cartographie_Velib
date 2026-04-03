@@ -1,7 +1,0 @@
-numpy
-matplotlib
-folium
-scipy
-networkx
-branca
-requests
